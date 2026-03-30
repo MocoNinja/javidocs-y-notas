@@ -28,7 +28,7 @@ site_author = "MocoNinja"
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
 site_url = "https://moconinja.github.io/javidocs-y-notas/"
-repo_url = "https://github.com/MocoNinja/javidocs-y-notas.git"
+repo_url = "https://github.com/MocoNinja/javidocs-y-notas"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
